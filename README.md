@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-Student at the University of Edinburgh.
-Interest in Software Testing and Data Science.
-Currently learning biomedical informatics.
-Likes to read and play football.
+Student at the University of Edinburgh.  
+Interested in Software Testing and Data Science.  
+Currently learning biomedical informatics.  
+Likes to read and play football.  
 
 <!--
 **ikhwnmp/ikhwnmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
